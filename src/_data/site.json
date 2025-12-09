@@ -6,5 +6,7 @@
   "author": "Carlos Rocha",
   "email": "contact@colead.uk",
   "location": "London, United Kingdom",  
-  "tagline": "Fractional CTO / Co-CEO & Digital Governance Advisor"
+  "tagline": "Fractional CTO / Co-CEO & Digital Governance Advisor",
+  "ogImage": "/assets/images/social-share.png",
+  "ogImageAlt": "CO-LEAD - Fractional CTO/Co-CEO for Mission-Critical Systems"
 }
