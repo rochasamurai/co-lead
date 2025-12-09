@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
-title: Home
-description: Executive technology advisory practice led by Principal Consultant & Fractional CTO Carlos Rocha. Mission-critical systems, digital governance and high-scale platforms for governments, investors and global enterprises.
+title: CO-LEAD - Fractional CTO & Co-CEO Services
+description: Fractional CTO & Co-CEO with 35+ years experience. Mission-critical systems, digital governance, and platform transformation for companies from startups to global enterprises. Proven at scale: 200K+ systems deployed.
 ---
 
 <section class="hero" id="home">
