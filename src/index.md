@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: CO-LEAD - Fractional CTO & Co-CEO Services
-description: Fractional CTO & Co-CEO with 35+ years experience. Mission-critical systems, digital governance, and platform transformation for companies from startups to global enterprises. Proven at scale: 200K+ systems deployed.
+description: Fractional CTO & Co-CEO with 35+ years experience. Mission-critical systems, digital governance, and platform transformation for companies from startups to global enterprises. Proven at scale with 200K+ systems deployed.
 ---
 
 <section class="hero" id="home">
