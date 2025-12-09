@@ -1,0 +1,29 @@
+{
+  "name": "colead-uk",
+  "version": "1.0.0",
+  "description": "Professional website for CoLead.uk - Fractional CTO/Co-CEO & Digital Governance Advisory",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "fractional-cto",
+    "fractional-ceo",
+    "co-ceo",
+    "interim-cto",
+    "interim-ceo",
+    "digital-governance",
+    "technical-advisory",
+    "executive-leadership",
+    "cto-services",
+    "business-strategy",
+    "technology-leadership",
+    "eleventy"
+  ],
+  "author": "Carlos Rocha <carlos.rocha@colead.uk>",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

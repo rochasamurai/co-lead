@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://colead.uk/sitemap.xml
