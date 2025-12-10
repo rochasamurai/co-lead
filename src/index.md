@@ -251,8 +251,3 @@ description: Fractional CTO & Co-CEO with 35+ years experience. Mission-critical
     </div>
   </div>
 </section>
-
-<a class="floating-cta" 
-   href="mailto:contact@colead.uk?subject=CO-LEAD%20Advisory%20Request&body=Hello%2C%0D%0A%0D%0AI%E2%80%99d%20like%20to%20schedule%20an%20introductory%20call%20with%20CO-LEAD.%0D%0A%0D%0AHere%20is%20some%20context%20about%20our%20situation%3A%0D%0A-%20Company%20name%3A%0D%0A-%20Main%20challenge%3A%0D%0A-%20Urgency%20level%3A%20High%20%2F%20Medium%20%2F%20Low%0D%0A-%20What%20a%20successful%20engagement%20would%20look%20like%3A%0D%0A%0D%0A(Optional)%20Please%20share%20a%20few%20time%20windows%20for%20a%2030-min%20call.%0D%0A%0D%0AThank%20you%2C%0D%0A">
-  Email Now
-</a>
