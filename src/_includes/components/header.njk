@@ -2,15 +2,37 @@
   <div class="container">
     <div class="header__content">
       <div class="header__brand">
-        <a href="/" class="header__logo logo">CO-LEAD</a>
+        <a href="/" class="header__logo">CO-LEAD</a>
       </div>
-      <nav class="header__nav">
+      
+      <button class="header__menu-toggle" aria-label="Toggle menu" id="menuToggle">
+        ☰ MENU
+      </button>
+      
+      <nav class="header__nav" id="mainNav">
         <a href="/" class="header__link">Home</a>
         <a href="#services" class="header__link">Services</a>
         <a href="#engagements" class="header__link">Engagements</a>
-        <a href="#about" class="header__link">About</a>        
+        <a href="#about" class="header__link">About</a>
         <a href="#contact" class="header__link">Contact</a>
       </nav>
     </div>
   </div>
 </header>
+
+<script>
+  const menuToggle = document.getElementById('menuToggle');
+  const mainNav = document.getElementById('mainNav');
+  
+  menuToggle.addEventListener('click', function() {
+    mainNav.classList.toggle('active');
+    menuToggle.textContent = mainNav.classList.contains('active') ? '✕ CLOSE' : '☰ MENU';
+  });
+  
+  document.querySelectorAll('.header__link').forEach(link => {
+    link.addEventListener('click', function() {
+      mainNav.classList.remove('active');
+      menuToggle.textContent = '☰ MENU';
+    });
+  });
+</script>
